@@ -13,6 +13,6 @@
   "loginName":"CN=username,CN=Users,DC=CA,DC=COM",
   "loginPswd":"password@1",
   "mappingAttr":{"USERNAME":"sAMAccountName", "STATUS":"userAccountControl"}
-  
+
 
 }

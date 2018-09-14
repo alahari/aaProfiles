@@ -1,0 +1,25 @@
+{
+  "commonProfileConfig": {
+    "name": "BasicArcotOTPProfile",
+    "setDefault": false,
+    "status": "ACTIVE",
+    "multipleUsageCount": -1,
+    "validityBegin": "Created Date",
+    "validityEnd": "5y",
+    "checkUser": false,
+    "checkUserAttributes": null,
+    "customAttribute": null,
+    "usageType": "",
+    "clientTxnId": "1024"
+  },
+  "camobileotp": {
+    "otpLength": 6,
+    "otpType": "HOTP",
+    "provisioningAttribute": {
+      "DISPLAYNAME": "$$USER_NAME$$",
+      "LOGOURL": "",
+      "TIMESTEP": "30"
+    },
+    "customCardAttribute": null
+  }
+}

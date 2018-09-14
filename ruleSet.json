@@ -1,11 +1,12 @@
 {
- "url" : "https://localhost:3000/aa-restapi/ca/advancedauth/v1/admin/authtoken",
- "method" : "POST",
- "payload" : {
-      "name": "ruleset2",
-      "srcOrgName": "defaultorg",
-	  "srcRuleSetName":"ruleset1"
-  }
- 
-  
+  "ruleScoreConfigs": [
+    {
+      "ruleName": "testRule1",
+      "scoringPriority": 10,
+      "score": 30,
+      "scoringEnabled": true,
+      "description": "",
+      "advice": "ALERT"
+    }
+  ]
 }
