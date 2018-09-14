@@ -1,8 +1,5 @@
 {
-  "url" : "https://localhost:3000/aa-restapi/ca/advancedauth/v1/admin/authtoken",
-  "method" : "POST",
-  "payload" :
-{
+
   "orgName": "org1",
   "displayName": "org1",
   "description": "org1",
@@ -16,7 +13,6 @@
   "loginName":"CN=username,CN=Users,DC=CA,DC=COM",
   "loginPswd":"password@1",
   "mappingAttr":{"USERNAME":"sAMAccountName", "STATUS":"userAccountControl"}
-
-}
+  
 
 }
