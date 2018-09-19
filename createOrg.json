@@ -3,6 +3,6 @@
   "orgName": "org1",
   "displayName": "org1",
   "description": "org1",
-  "repositoryType": "LDAP",
+  "repositoryType": "ARUSER",
   "status": "ACTIVE"
 }
