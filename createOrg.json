@@ -4,15 +4,5 @@
   "displayName": "org1",
   "description": "org1",
   "repositoryType": "LDAP",
-  "status": "ACTIVE",
-  "hostName":"ram01.company.com",
-  "port":"389",
-  "schemaName":"user",
-  "baseDistinguishedName":"OU=testou,DC=CA,DC=COM",
-  "connectionType":"TCP",
-  "loginName":"CN=username,CN=Users,DC=CA,DC=COM",
-  "loginPswd":"password@1",
-  "mappingAttr":{"USERNAME":"sAMAccountName", "STATUS":"userAccountControl"}
-
-
+  "status": "ACTIVE"
 }
