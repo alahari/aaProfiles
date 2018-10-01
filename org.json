@@ -27,7 +27,7 @@
   {
     "dateCreated": "2018-07-18T17:48:30.+0000", 
     "dateModified": "2018-09-18T17:44:06.900+0000", 
-    "description": "PRI_CLIENTPORTAL_REG", 
+    "description": "PRI_CLIENTPORTAL_RE", 
     "displayName": "PRI_CLIENTPORTAL_REG", 
     "orgName": "PRI_CLIENTPORTAL_REG", 
     "repositoryType": "ARUSER", 
@@ -90,7 +90,7 @@
   {
     "dateCreated": "2018-05-15T18:58:39.+0000", 
     "dateModified": "2018-05-18T14:34:12.033+0000", 
-    "description": "testnewldap_desc", 
+    "description": "testnewldap", 
     "displayName": "testnewldap", 
     "orgName": "TESTNEWLDAP", 
     "repositoryType": "LDAP", 
