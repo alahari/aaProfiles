@@ -2,17 +2,17 @@
   {
     "dateCreated": "2018-05-15T18:33:50.+0000", 
     "dateModified": "2018-05-18T14:34:11.957+0000", 
-    "displayName": "oldldap", 
-    "orgName": "OLDLDAP", 
+    "displayName": "octorg", 
+    "orgName": "octorg", 
     "repositoryType": "ARUSER", 
     "status": "ACTIVE"
   }, 
   {
     "dateCreated": "2018-05-18T15:39:38.+0000", 
     "dateModified": "2018-06-27T20:32:51.900+0000", 
-    "description": "testprildap", 
-    "displayName": "testprildap", 
-    "orgName": "TESTPRILDAP", 
+    "description": "octorg1", 
+    "displayName": "octorg1", 
+    "orgName": "octorg1", 
     "repositoryType": "ARUSER", 
     "status": "ACTIVE"
   }
